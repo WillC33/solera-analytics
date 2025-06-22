@@ -8,39 +8,39 @@
 
 A sophisticated web application for modelling and optimising solera aging systems, commonly used in the production of aged spirits, wines, and other premium beverages. Built with modern web technologies to provide real-time analytics and visual insights for estate-level production planning.
 
-## 🚀 Live Application
+## Live Application
 
-**[View Solera Analytics Live →](your-demo-url-here)**
+**[View Solera Analytics Live →](https://willc33.github.io/solera-analytics)**
 
 *Hosted and maintained on my personal pages*
 
-## ✨ Features
+## Features
 
-### 🔬 **Advanced Simulation Engine**
+### **Advanced Simulation Engine**
 - **FIFO Aging Methodology**: Accurate first-in-first-out liquid tracking through barrel cascades
 - **Multi-Barrel Configuration**: Support for 1-10 barrel systems with individual capacity and drain parameters
 - **Dynamic Volume Tracking**: Real-time monitoring of liquid volumes, ages, and transfers
 - **Temporal Analysis**: Comprehensive aging progression over customisable time periods
 
-### 📊 **Interactive Analytics Dashboard**
+### **Interactive Analytics Dashboard**
 - **Aging Profile Charts**: Visual representation of average age progression by barrel position
 - **Price Sensitivity Matrix**: Revenue impact analysis for pricing adjustments across barrels
 - **Flow Analysis**: Detailed volume flow and turnover rate calculations
 - **System Balance Monitoring**: Real-time overflow/deficit detection and warnings
 
-### 💰 **Revenue Optimisation Tools**
+### **Revenue Optimisation Tools**
 - **Multi-Tier Pricing Models**: Individual pricing per barrel reflecting maturation premiums
 - **Cumulative Revenue Tracking**: Historical and projected revenue analysis
 - **Efficiency Metrics**: System extraction rates and age premium calculations
 - **Executive Reporting**: Comprehensive performance summaries with key financial metrics
 
-### 🎛️ **Professional Interface**
+### **Professional Interface**
 - **Responsive Design**: Optimised for desktop, tablet, and mobile viewing
 - **Real-Time Updates**: Debounced calculations with smooth chart animations
 - **Intuitive Controls**: Professional-grade configuration panels with validation
 - **Export-Ready Visualisations**: High-quality charts suitable for presentations
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### **Frontend Stack**
 - **Svelte 5**: Modern reactive framework with runes-based state management
@@ -64,7 +64,7 @@ A sophisticated web application for modelling and optimising solera aging system
     └── Flow analysis tools
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
 ### **Distillery Operations**
 - Model whisky, rum, or brandy aging systems
@@ -86,7 +86,7 @@ A sophisticated web application for modelling and optimising solera aging system
 - Analyse economic models of time-based value creation
 - Research optimal aging methodologies
 
-## ⚙️ Configuration Options
+## Configuration Options
 
 ### **System Parameters**
 - **Barrel Count**: 1-10 barrels with independent configurations
@@ -104,7 +104,7 @@ A sophisticated web application for modelling and optimising solera aging system
 - **Turnover Rate Monitoring**: Barrel efficiency calculations
 - **Age Premium Tracking**: Value appreciation metrics
 
-## 📈 Analytics & Reporting
+## Analytics & Reporting
 
 ### **Visual Analytics**
 - **Aging Progression Charts**: Time-series analysis of maturation
@@ -117,7 +117,7 @@ A sophisticated web application for modelling and optimising solera aging system
 - **Age Premium Ratios**: Value appreciation calculations
 - **Monthly Revenue Averages**: Consistent performance indicators
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 The interface employs a **sophisticated aesthetic** inspired by premium spirits packaging:
 
@@ -126,7 +126,7 @@ The interface employs a **sophisticated aesthetic** inspired by premium spirits 
 - **Subtle Animations**: Smooth transitions that enhance rather than distract
 - **Accessibility First**: High contrast ratios and semantic markup throughout
 
-## 🔧 Local Development
+## Local Development
 
 ```bash
 # Clone the repository
@@ -142,15 +142,15 @@ npm run dev
 npm run build
 ```
 
-## 📝 Licence
+## Licence
 
 This project is proprietary software developed for demonstration and educational purposes. 
 
-**© 2024 - All rights reserved**
+**© 2025 - All rights reserved**
 
 ---
 
-## 🤝 About
+## About
 
 Developed as a demonstration of advanced web application capabilities, combining complex mathematical modelling with modern user interface design. The application showcases real-world problem-solving in the premium beverage industry whilst highlighting technical proficiency in reactive programming and data visualisation.
 
